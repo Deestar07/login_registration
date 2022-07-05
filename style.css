@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background: url(image.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.login-box {
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+.login-left {
+  background-color: saddlebrown;
+  padding: 30px;
+}
+.login-right {
+  background-color: peru;
+  padding: 30px;
+}
+
+.form-control {
+  background-color: transparent;
+}
+
+a {
+  color: white !important;
+}
+
+.homepage {
+  color: black;
+  margin-top: 200px !important;
+  text-align: center;
+  text-transform: uppercase;
+}
